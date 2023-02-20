@@ -79,3 +79,7 @@ hr {
   border-width: 5px;
   border-color: olive;
 }
+img {
+        width: 100%;
+        height: auto;
+      }
