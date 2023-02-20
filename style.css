@@ -1,0 +1,81 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: blue;
+  background-image: url(https://cdn.wallpapersafari.com/40/52/lRweND.jpg);
+}
+/* Little name styling*/
+.name {
+  background-color: darkgray;
+  color: black;
+  width: auto;
+  text-align: center;
+ font-family: cursive;
+}
+body {
+  background-image: url(https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F1.bp.blogspot.com%2F-RfH9m2GxHLY%2FUh9VjINIECI%2FAAAAAAAAEKo%2FMW4ZhL3hhd8%2Fs1600%2FBackground-Graphics-For-Websites.jpg&f=1&nofb=1&ipt=e269f50b6f2f2073342f075ed9b8dc8802f4f913ccb05654ce8a9822e478d6ce&ipo=images);
+  text-align: center;
+}
+/* H1-H4 styles */
+h1 {
+  font-size: 50px;
+  color: darkslategray;
+  font-family: cursive;
+  text-decoration-line: underline;
+}
+h2 {
+  color: darkslateblue;
+}
+h3 {
+  color: forestgreen;
+  font: Arial-black;
+}
+h4 {
+  color: olivedrab;
+  font-family: cursive;
+  
+}
+.box {
+  margin: 20px 10%;
+  background-color:darkgray;
+  padding: 10px;
+  font-family: arial, sans-serif;
+  text-align: center;
+}
+.navBox {
+ margin: 5px 10%;
+  background-color:darkgray;
+  padding: 5px;
+  font-family: arial, sans-serif;
+  text-align: center; 
+}
+.solid  {  border: 3px solid #000;   }
+p {
+  text-align: center;
+}
+/* Left-Align List*/
+.laList {
+  text-align: left;
+}
+
+a:link {
+  color: black;
+  text-decoration: none;
+}
+a:visited {
+  color: yellow;
+  text-decoration: none;
+}
+a:hover {
+  color: deeppink;
+  text-decoration: none;
+}
+a:active {
+  color: red;
+  text-decoration: none;
+}
+/* Horizontal Rule*/
+hr {
+  border-width: 5px;
+  border-color: olive;
+}
